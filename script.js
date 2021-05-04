@@ -79,13 +79,13 @@ changeStatus = (result) => {
     background.classList.remove("tapabocas");
     body.classList.add("sin_tapabocas");
     body.classList.remove("tapabocas");
-    article_title.innerHTML = (" Cuidate querete, ojito ojete ");
+    article_title.innerHTML = ("Pongase tapabocas por favor!");
   } else {
     background.classList.add("tapabocas");
     background.classList.remove("sin_tapabocas");
     body.classList.add("tapabocas");
     body.classList.remove("sin_tapabocas");
-    article_title.innerHTML = (" libertad responsable ");
+    article_title.innerHTML = (" Puede pasar ");
   }
 };
 
