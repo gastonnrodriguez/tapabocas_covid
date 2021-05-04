@@ -1,0 +1,12 @@
+webcam {
+  max-height: inherit;
+  max-width: inherit;
+}
+
+.tapabocas {
+  background-color:hsl(141, 71%, 48%);;
+}
+
+.sin_tapabocas {
+  background-color: hsl(348, 100%, 61%);
+}
